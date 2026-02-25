@@ -144,4 +144,5 @@ Feedstock Maintainers
 =====================
 
 * [@diegoferigo](https://github.com/diegoferigo/)
+* [@dpep](https://github.com/dpep/)
 
